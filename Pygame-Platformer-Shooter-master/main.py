@@ -11,7 +11,7 @@ pygame.display.set_caption('Shooter Platformer')
 info_object = pygame.display.Info()
 WINDOW_SIZE = (info_object.current_w, info_object.current_h)
 
-screen = pygame.display.set_mode(WINDOW_SIZE, FULLSCREEN)
+screen = pygame.display.set_mode(WINDOW_SIZE, )
 
 display = pygame.Surface((1920, 1080))
 
