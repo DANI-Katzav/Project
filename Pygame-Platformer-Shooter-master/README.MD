@@ -13,5 +13,5 @@ Using the application
 * Aim - Move Mouse
 * Shoot - Left Click
 * Escape to Menu (if in game) - Escape
-* Exit Fullscreen (if in menu) - Escape
+* Exit Fullscreen f
 * Enter Fullscreen - f
